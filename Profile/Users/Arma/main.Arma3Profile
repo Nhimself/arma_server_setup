@@ -1,0 +1,67 @@
+version=1;
+blood=1;
+singleVoice=0;
+gamma=1;
+brightness=1;
+maxSamplesPlayed=96;
+activeKeys[]=
+{
+	"BIS_CF_MCC_Template_179.fallujah_done",
+	"BIS_CF_MCC_Template_179.fapovo_done",
+	"BIS_CF_MCC_Template_179.tem_vinjesvingenc_done"
+};
+class DifficultyPresets
+{
+	class CustomDifficulty
+	{
+		class Options
+		{
+			groupIndicators=0;
+			friendlyTags=0;
+			enemyTags=0;
+			detectedMines=0;
+			commands=0;
+			waypoints=0;
+			weaponInfo=1;
+			stanceIndicator=1;
+			reducedDamage=0;
+			staminaBar=0;
+			weaponCrosshair=0;
+			visionAid=0;
+			thirdPersonView=0;
+			cameraShake=0;
+			scoreTable=0;
+			deathMessages=0;
+			vonID=0;
+			mapContentFriendly=0;
+			mapContentEnemy=0;
+			mapContentMines=0;
+			tacticalPing=0;
+			autoReport=0;
+			multipleSaves=0;
+		};
+		aiLevelPreset=3;
+	};
+	class CustomAILevel
+	{
+		skillAI=1;
+		precisionAI=1;
+	};
+};
+difficulty="Custom";
+playedKeys[]=
+{
+	"BIS_EXP_m01.Tanoa_done",
+	"BIS_EXP_m02.Tanoa_done"
+};
+sceneComplexity=400000;
+shadowZDistance=100;
+viewDistance=10000;
+preferredObjectViewDistance=5000;
+terrainGrid=25;
+volumeCD=10;
+volumeFX=10;
+volumeSpeech=10;
+volumeVoN=10;
+vonRecThreshold=0.029999999;
+volumeMapDucking=1;

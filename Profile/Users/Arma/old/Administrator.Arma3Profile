@@ -1,0 +1,183 @@
+version=2;
+blood=1;
+singleVoice=0;
+gamma=1;
+brightness=1;
+maxSamplesPlayed=96;
+activeKeys[]=
+{
+	"BIS_CF_MCC_Template_117.Altis_done",
+	"BIS_CF_MCC_Template_117.IslaDuala3_done",
+	"BIS_CF_MCC_Template_117.Chernarus_done",
+	"BIS_CF_MCC_Template_117.Panthera3_done",
+	"BIS_CF_MCC_Template_118.Stratis_done",
+	"BIS_CF_MCC_Template_118.Zargabad_done",
+	"BIS_CF_MCC_Template_118.IslaDuala3_done",
+	"BIS_CF_MCC_Template_118.Takistan_done",
+	"BIS_CF_MCC_Template_119.Altis_done",
+	"BIS_CF_MCC_Template_119.Sara_done",
+	"BIS_CF_MCC_Template_120.IslaDuala3_done",
+	"BIS_CF_MCC_Template_120.Panthera3_done",
+	"BIS_CF_MCC_Template_120.Zargabad_done",
+	"BIS_CF_MCC_Template_120.Sara_done",
+	"BIS_CF_MCC_Template_121.Sara_done",
+	"BIS_CF_MCC_Template_121.bozcaada_done",
+	"BIS_CF_MCC_Template_121.Chernarus_done",
+	"BIS_CF_MCC_Template_121.Zargabad_done",
+	"BIS_CF_MCC_Template_120.Woodland_ACR_done",
+	"BIS_CF_MCC_Template_121.IslaDuala3_done",
+	"BIS_CF_MCC_Template_122.Altis_done",
+	"BIS_CF_MCC_Template_122.IslaDuala3_done",
+	"BIS_CF_MCC_Template_122.Panthera3_done",
+	"BIS_CF_MCC_Template_122.bozcaada_done",
+	"BIS_CF_MCC_Template_123.Altis_done",
+	"BIS_CF_MCC_Template_123.Panthera3_done",
+	"BIS_CF_MCC_Template_123.Sara_done",
+	"BIS_CF_MCC_Template_123.bozcaada_done",
+	"BIS_CF_MCC_Template_123.Zargabad_done",
+	"BIS_CF_MCC_Template_123.Stratis_done",
+	"BIS_CF_MCC_Template_123.Chernarus_done",
+	"BIS_CF_MCC_Template_123.IslaDuala3_done",
+	"BIS_CF_MCC_Template_124.Altis_done",
+	"BIS_CF_Boot_Camp_124.Altis_done",
+	"BIS_CF_MCC_Template_124.Chernarus_done",
+	"BIS_CF_MCC_Template_124.IslaDuala3_done",
+	"BIS_CF_MCC_Template_125.Panthera3_done",
+	"BIS_CF_MCC_Template_125.Altis_done",
+	"BIS_CF_MCC_Template_125.Takistan_done",
+	"BIS_CF_MCC_Template_126.IslaDuala3_done",
+	"BIS_CF_MCC_Template_126.Altis_done",
+	"BIS_CF_MCC_Template_126.Panthera3_done",
+	"BIS_CF_MCC_Template_126.bozcaada_done",
+	"BIS_MCC_Template.Takistan_done",
+	"BIS_CF_MCC_Template_127.Altis_done",
+	"BIS_CF_MCC_Template_127.Chernarus_done",
+	"BIS_CF_MCC_Template_127.Stratis_done",
+	"BIS_CF_MCC_Template_127.Takistan_done",
+	"BIS_CF_MCC_Template_127.Zargabad_done",
+	"BIS_CF_MCC_Template_128.abel_done",
+	"BIS_CF_MCC_Template_128.Altis_done",
+	"BIS_CF_MCC_Template_128.Panthera3_done",
+	"BIS_CF_MCC_Template_128.Sara_done",
+	"BIS_CF_MCC_Template_128.Takistan_done",
+	"BIS_exp_m01.tanoa_done",
+	"BIS_exp_m03.tanoa_done",
+	"BIS_exp_m04.tanoa_done",
+	"BIS_exp_m05.tanoa_done",
+	"BIS_exp_m06.tanoa_done",
+	"BIS_CF_MCC_Template_128.bozcaada_done",
+	"BIS_CF_MCC_Template_129.abel_done",
+	"BIS_CF_MCC_Template_129.Takistan_done",
+	"BIS_CF_Boot_Camp_129.Altis_done",
+	"BIS_CF_MCC_Template_129.Altis_done",
+	"BIS_CF_MCC_Template_129.Panthera3_done",
+	"BIS_CF_MCC_Template_129.Stratis_done",
+	"BIS_CF_MCC_Template_129_advmed.Stratis_done",
+	"BIS_CF_MCC_Template_129.Sara_done",
+	"BIS_CF_MCC_Template_129.bozcaada_done",
+	"BIS_CF_MCC_Template_130.Altis_done",
+	"BIS_CF_MCC_Template_130.Sara_done",
+	"BIS_CF_MCC_Template_130.Zargabad_done",
+	"BIS_CF_MCC_Template_131.Panthera3_done",
+	"BIS_CF_MCC_Template_131.Zargabad_done",
+	"BIS_CF_MCC_Template_131.Altis_done",
+	"BIS_CF_MCC_Template_131.abel_done",
+	"BIS_CF_MCC_Template_132.Altis_done",
+	"BIS_CF_MCC_Template_132.Tanoa_done",
+	"BIS_CF_MCC_Template_133.Stratis_done",
+	"BIS_CF_MCC_Template_132.Stratis_done",
+	"BIS_CF_MCC_Template_134.pja310_done",
+	"BIS_CF_MCC_Template_134.Chernarus_done",
+	"BIS_CF_MCC_Template_134.IslaDuala3_done",
+	"BIS_CF_MCC_Template_134.Altis_done",
+	"BIS_CF_MCC_Template_134.Sara_done",
+	"BIS_CF_MCC_Template_134.abel_done",
+	"BIS_CF_Boot_Camp_134.Altis_done",
+	"BIS_CF_MCC_Template_134.Stratis_done",
+	"BIS_CF_MCC_Template_134.bozcaada_done",
+	"BIS_CF_MCC_Template_134.Panthera3_done",
+	"BIS_CF_MCC_Template_132.pja310_done",
+	"BIS_CF_MCC_Template_134.Tanoa_done",
+	"BIS_CF_MCC_Template_135.Chernarus_winter_done",
+	"BIS_CF_MCC_Template_135.Takistan_done",
+	"BIS_CF_MCC_Template_135.Panthera3_done",
+	"BIS_CF_MCC_Template_135.Sara_done",
+	"BIS_CF_MCC_Template_135.pja310_done",
+	"BIS_CF_MCC_Template_135.Zargabad_done",
+	"BIS_CF_MCC_Template_135.Tanoa_done",
+	"BIS_CF_MCC_Template_136.pja310_done",
+	"BIS_CF_MCC_Template_136.bozcaada_done",
+	"BIS_CF_MCC_Template_136.abel_done",
+	"BIS_CF_MCC_Template_136.Tanoa_done",
+	"BIS_CF_MCC_Template_136.Zargabad_done",
+	"BIS_CF_MCC_Template_136.IslaDuala3_done",
+	"BIS_CF_MCC_Template_136.Panthera3_done",
+	"BIS_CF_MCC_Template_136.Altis_done",
+	"BIS_CF_MCC_Template_136.Chernarus_done",
+	"BIS_MCC_Template.Stratis_done",
+	"BIS_CF_MCC_Template_137.lingor3_done",
+	"BIS_CF_MCC_Template_137.Panthera3_done",
+	"BIS_CF_MCC_Template_137.Chernarus_done",
+	"BIS_CF_MCC_Template_137.abramia_done",
+	"BIS_CF_MCC_Template_138.Tanoa_done",
+	"BIS_CF_MCC_Template_138.Panthera3_done",
+	"BIS_CF_MCC_Template_138.Chernarus_done",
+	"BIS_CF_MCC_Template_138.lingor3_done",
+	"BIS_CF_MCC_Template_138.Altis_done",
+	"BIS_CF_MCC_Template_138.bozcaada_done",
+	"BIS_CF_MCC_Template_138.Stratis_done",
+	"BIS_CF_MCC_Template_139.lingor3_done",
+	"BIS_CF_MCC_Template_139.abramia_done"
+};
+class DifficultyPresets
+{
+	class CustomDifficulty
+	{
+		class Options
+		{
+			groupIndicators=0;
+			friendlyTags=0;
+			enemyTags=0;
+			detectedMines=0;
+			commands=0;
+			waypoints=0;
+			weaponInfo=1;
+			stanceIndicator=1;
+			reducedDamage=0;
+			staminaBar=0;
+			weaponCrosshair=0;
+			visionAid=0;
+			thirdPersonView=1;
+			cameraShake=1;
+			scoreTable=0;
+			deathMessages=0;
+			vonID=0;
+			mapContent=0;
+			autoReport=0;
+			multipleSaves=0;
+		};
+		aiLevelPreset=3;
+	};
+	class CustomAILevel
+	{
+		skillAI=1;
+		precisionAI=1;
+	};
+};
+difficulty="Custom";
+playedKeys[]=
+{
+	"BIS_EXP_m04.Tanoa_done",
+	"BIS_EXP_m05.Tanoa_done",
+	"BIS_EXP_m07.Tanoa_done"
+};
+sceneComplexity=1000000;
+shadowZDistance=100;
+viewDistance=3000;
+preferredObjectViewDistance=2000;
+terrainGrid=3.125;
+volumeCD=10;
+volumeFX=10;
+volumeSpeech=10;
+volumeVoN=10;
+vonRecThreshold=0.029999999;
