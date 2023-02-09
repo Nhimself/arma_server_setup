@@ -15,6 +15,7 @@ Download [steamcmd](https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zi
 
 Unzip to `c:/steamcmd`
 
+Download the files in this [repo](https://github.com/Nhimself/arma_server_setup/archive/refs/heads/main.zip) and unzip them - you will need them later
 
 # Download and install Arma 3
 
@@ -36,14 +37,18 @@ Root folder
 
 C:\armaserver 
 
-```
  \arma\ <-- Arma install dir
- \arma\mpmissions\ <-- custom mission files goes here!!!!
- \cfsync\ <-- cfsync cli to run the server with 
- \Config\ <-- server config dir
- \mods\ <-- server mods dir
- \Profile\ <-- Arma server profile dir
-```
+ 
+ \arma\mpmissions\ <-- [Mission files](https://github.com/Nhimself/arma_server_setup/tree/main/mpmissions)
+ 
+ \cfsync\ <-- [cfsync cli](https://github.com/Nhimself/arma_server_setup/tree/main/cfsync)
+ 
+ \Config\ <-- [server config files](https://github.com/Nhimself/arma_server_setup/tree/main/Config)
+ 
+ \mods\ <-- [server mods](https://cfo:snakes@repo-cfsync.charliefoxtrotops.com)
+ 
+ \Profile\ <-- [Arma server profile](https://github.com/Nhimself/arma_server_setup/tree/main/Profile)
+
 
 
 
