@@ -1,0 +1,1 @@
+-mod=vn;C:\Arma\mods\@acre2;C:\Arma\mods\@acre2_sys_sog;C:\Arma\mods\@cba_a3;C:\Arma\mods\@cf_bai;C:\Arma\mods\@CF_DebugConsole;C:\Arma\mods\@cf_pf;C:\Arma\mods\@cf_woodland;C:\Arma\mods\@dui
