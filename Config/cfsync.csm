@@ -1,0 +1,33 @@
+{
+  "Arma3Serverexe": "C:\\armaserver\\arma\\arma3server_x64.exe",
+  "Concurrency": 4,
+  "ModsPath":"C:\\armaserver\\mods", 
+  "Launches": [
+	{
+		"Name":"Freedom Fighters Arma Server",
+		"Parameters": {
+			"Server": "URL",
+			"Password": "PASSWORD",
+			"Port": "2302",
+			"Others": [
+			  "-noSplash",
+			  "-world=empty",
+			  "-skipIntro"
+			]
+		},
+		"Mods": {
+			"Additions":[],
+			"WhiteList":[],
+			"BlackList":["@acre2_sys_gm","@acre2_sys_sog","@cf_pf"]
+		},
+		"ServerParameters": [
+			"-limitfps=100",
+			"-config=C:\\armaserver\\Config\\config_server.cfg",
+			"-profiles=C:\\armaserver\\Profile",
+			"-port=2302",
+			"-bandwidthAlg=2",
+			"-loadMissionToMemory"
+		]
+    }
+  ]
+}
