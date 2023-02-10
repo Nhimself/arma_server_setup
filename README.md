@@ -136,5 +136,27 @@ services:
     restart: unless-stopped
 ```
 
+### Caddy file
 
+```
+# , repo-cfsync.freedom-fighters.eu repo-cfsync.bymench.dk, 
+repo-cfsync.freedom-fighters.eu status.freedom-fighters.eu {
+ root * /var/www/modsrepo/
+ file_server browse
+}
+
+## squad.freedom-fighters.eu
+squad.freedom-fighters.eu {
+ root * /var/www/squad/
+ file_server
+}
+
+## cfsync.freedom-fighters.eu
+cfsync.freedom-fighters.eu {
+ root * /var/www/cfsync/
+ file_server browse
+
+}
+
+```
 
